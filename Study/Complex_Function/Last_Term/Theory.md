@@ -29,6 +29,13 @@
 #### Ví dụ 
 **Tìm khai triển Laurent ở lân cận điểm $0$ trên hình vành khăn $1 < |z| < \infty$ của hàm***
 $$f(z) = \frac{1}{1 - z}$$
-
-
-
+Ta viết : 
+$$\frac{1}{1 - z} = \frac{-1}{z}\cdot \frac{1}{1 - \frac{1}{z}}$$
+Đặt 
+$$\sigma = \frac{1}{z}$$
+Do ta đang xét $z$ trong miền hình vành khăn, $1 < |z| < \infty$, nên $|\sigma|<1$
+Khai triển Taylor cho hàm $\frac{1}{1-z}$ lân cận điểm $0$ ta được :
+$$\frac{1}{1 - \sigma} = 1 + \sigma + sigma^2 + ...$$
+$$= 1 + \frac{1}{z} + \frac{1}{z^2} + ...$$
+$$\Rightarrow \frac{1}{z - 1} = -\frac{1}{z}\cdot \left(1 + \frac{1}{z} + \frac{1} {z^2} + ...\right) = -\frac{1}{z} - \frac{1}{z^2}- \frac{1}{z^3} - ...$$
+Đó là khai triển Laurent ở lân cận điểm $0$ trên hình vành khăn $1<|z|<\infty$ của hàm $f(z) = \frac{1}{1 - z}$
