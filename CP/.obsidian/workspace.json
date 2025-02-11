@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troll/Untitled.md",
+                "file": "Troll/Hello World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Hello World"
             }
           }
         ],
@@ -218,11 +218,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e392d2eaf593edfa",
+  "active": "056b08dcf8a42fe6",
   "lastOpenFiles": [
+    "Troll/Untitled.md",
     "Hàm Phức",
     "Troll/Hello World.md",
-    "Troll/Untitled.md",
     "Welcome.md",
     "Troll"
   ]
