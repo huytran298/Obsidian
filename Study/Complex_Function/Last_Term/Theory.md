@@ -117,3 +117,14 @@ $$Res_{z=2}f(z) = \frac{1}{(2 - 1)!}\lim_{ z \to 2 } \frac{d}{dz}[(z - 2)^2f(z)]
 
 ***Ví dụ***
 Tính thặng số tại điểm $z = \frac{\pi}{2}$ của hàm :
+$$f(z) = \frac{\sin^2z}{\cos z}$$
+Đặt $h(z) = \sin^2, g(z) = \cos z$. Hàm $f(z)$ có dạng :
+$$f(z) = \frac{h(z)}{g(z)}$$
+Với :
+$$h\left( \frac{\pi}{2}\right)= 1 \neq 0, g\left( \frac{\pi}{2} \right) = 0, g'\left( \frac{\pi}{2} \right)-1\neq 0$$
+$$\implies Res_{z = \frac{\pi}{2}}f(z) = \frac{h\left( \frac{\pi}{2} \right)}{g'\left( \frac{\pi}{2} \right)} = -1$$
+
+#### Định lý thặng số
+##### Phát biểu định lý
+> Cho hàm $f(z)$ giải tích trong và trên chu tuyến $C$ ngoại trừ tại một số hữu hạn các điểm dị thường cô lập $z_{k}$ không nằm trên $C$.
+> $$\oint_{C} f(z)\, dz = 2\pi i\sum_{k} Res_{z = z_{k}} f(z)$$
