@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Complex_Function/Last_Term/Last_Term.md",
+                "file": "Study/Statistical Probability/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Last_Term"
+              "title": "Untitled"
             }
           }
         ]
@@ -80,16 +80,15 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8d994094e64b05ef",
@@ -181,24 +180,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "e8ae5c9e04e175f9",
   "lastOpenFiles": [
+    "Study/Complex_Function/Last_Term/Last_Term.md",
+    "Study/Statistical Probability/Untitled.md",
     "Study/Complex_Function/Last_Term/Theory.md",
     "Study/General Physics/Formular.md",
     "Untitled.md",
     "Study/General Physics",
     "Untitled.canvas",
-    "Study/Complex_Function/Last_Term/Last_Term.md",
     "Study/Complex_Function/Last_Term/exam.pdf"
   ]
 }
