@@ -55,7 +55,13 @@ Lấy Laplace 2 vế ta có :
 $$L\{y''\} - 3L\{y'\} + 2L\{y\} = L\{4e^{2t}\}$$
 $$s^2Y(s) - 5 - 3sY(s) + 2Y(s) = \frac{4}{s - 2}$$
 $$Y(s)(s^2 - 3s + 2) = \frac{4}{s - 2} + 5$$
-$$Y(s) = \frac{4 - 5(s - 2)}{(s - 2)(s^2 - 3s + 2)} = \frac{14 - 5s}{(s - 2)(s^2 - 3s + 2)}$$
-$$Y(s) = \frac{14 - 5s}{(s - 2)^2(s - 1)}$$
-
-
+$$Y(s) = \frac{4 + 5(s - 2)}{(s - 2)(s^2 - 3s + 2)} = \frac{-6 + 5s}{(s - 2)(s^2 - 3s + 2)}$$
+$$Y(s) = \frac{-6 + 5s}{(s - 2)^2(s - 1)}$$
+$$Y(s) = \frac{A}{s - 1} + \frac{B}{(s - 2)} + \frac{C}{(s - 2)^2}$$
+$$\implies 5s - 6 = A(s - 2)^2 + B(s-2)(s-1) + C( s- 1)$$
+$$5s - 6 = As^2 - 4As + 4A + Bs^2 - 3Bs + 2B + Cs - C$$
+$$5s - 6 = s^2(A + B) + s(-4A - 3B + C) + 4A + 2B - C$$
+$$Y(s) =  \frac{-1}{s - 1} + \frac{1}{s - 2} + \frac{4}{(s - 2)^2}$$
+$$L^{-1}\{Y(s)\} = L^{-1}\left\{ -\frac{-1}{s - 1} \right\}  + L^{-1}\left\{ \frac{1}{s - 2} \right\} + L^{-1}\left\{ \frac{4}{(s - 2)^2} \right\} $$
+$$y(t) = -e^{t} + e^{2t} + 4te^{2t}$$
+---
