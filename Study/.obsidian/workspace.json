@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complex_Function/Last_Term/Theory.md",
+                "file": "General Physics/Formular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Theory"
+              "title": "Backlinks for Formular"
             }
           },
           {
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60a4954cca0b905b",
+  "active": "fe732d99caeebece",
   "lastOpenFiles": [
     "Complex_Function/Last_Term/Theory.md",
     "readme.md",
