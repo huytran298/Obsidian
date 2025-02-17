@@ -35,8 +35,7 @@
               "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dbe60f193865280",
+  "active": "e8ae5c9e04e175f9",
   "lastOpenFiles": [
-    "Study/Complex_Function/Last_Term/Last_Term.md",
     "conflict-files-obsidian-git.md",
+    "Study/Complex_Function/Last_Term/Last_Term.md",
     "Study/Statistical Probability/XSTK_CK_23-24.md",
     "Study/Statistical Probability",
     "Study/Complex_Function/Last_Term/Theory.md",
