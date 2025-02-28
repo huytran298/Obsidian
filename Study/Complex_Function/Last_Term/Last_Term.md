@@ -1,7 +1,17 @@
 ![[exam.pdf]]
 
 # Bài giải 
+### Câu 2
 
+#### a)
+ta có $z = 0$ (cực đôi):
+$$Res_{z = 0}f(z) = \frac{1}{(2 - 1)!}\lim_{ z \to 1 }  \frac{d}{dz}[z^2f(z)] = \lim_{ z \to 1 }\frac{d}{dz}[\sin z] = \lim_{ z \to 1 }\cos z = 1$$
+Tích phân trên là :
+$$I = 2i\pi \cdot Res_{z=0}f(z) = 2\pi i$$
+#### b)
+Đặt $z = e^{i\theta}$ khi $\theta$ biến thiên từ $0$ tới $2\pi$ thì $z$ biến thiên trên đường tròn đơn vị $C(0,1)$ , viết lại ta có :
+$$\oint_{C} \frac{\cos^2\theta - \sin^2 \theta}{(5 + 4\cos \theta) iz} \, dz$$
+$$$$
 ### Câu 3
 #### a)
 Đặt $w = z - 1$. Ta có :

@@ -1,1 +1,1 @@
-Open [[Hello World]]
+Open [[Solution]]
