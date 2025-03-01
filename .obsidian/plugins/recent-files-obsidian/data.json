@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Solution",
-      "path": "CP/Troll/Solution.md"
+      "basename": "Bài tập_1",
+      "path": "Study/Mathematical methods for Physics/Bài tập_1.md"
     },
     {
       "basename": "Last_Term",
       "path": "Study/Complex_Function/Last_Term/Last_Term.md"
+    },
+    {
+      "basename": "Formular",
+      "path": "Study/General Physics/Formular.md"
+    },
+    {
+      "basename": "Solution",
+      "path": "CP/Troll/Solution.md"
     },
     {
       "basename": "XSTK_CK_23-24",
@@ -15,10 +23,6 @@
     {
       "basename": "Theory",
       "path": "Study/Complex_Function/Last_Term/Theory.md"
-    },
-    {
-      "basename": "Formular",
-      "path": "Study/General Physics/Formular.md"
     }
   ],
   "omittedPaths": [],
