@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "ML - Machine Learning for Science"
             }
+          },
+          {
+            "id": "68a61e0d00569b66",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,9 +233,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58690e31671c639c",
+  "active": "68a61e0d00569b66",
   "lastOpenFiles": [
+    "CP/Troll/Solution.md",
+    "CP/Troll/Hello World.md",
+    "CP/Troll/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Study/Hardware_camp/ML - Machine Learning for Science.md",
+    "Study/Mathematical methods for Physics/Bài tập_1.md",
+    "Study/Mathematical methods for Physics/BT1.jpg",
+    "Study/Mathematical methods for Physics",
+    "Slide/pic.jpg",
+    "Slide/Introducing.md",
+    "Slide",
     "Study/Hardware_camp/Cosmic Ray.md",
     "Study/Hardware_camp/Neutrinos.md",
     "Study/Statistical Probability/XSTK_CK_23-24.md",
