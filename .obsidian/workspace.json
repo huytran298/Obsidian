@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Quantum Mechanics/THE INFINITY SQUARE WELL.md",
+                "file": "Study/Mathematical methods for Physics/Bài tập_4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "THE INFINITY SQUARE WELL"
+              "title": "Bài tập_4"
             }
           }
         ],
@@ -234,11 +234,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a141feb88e11c2d",
+  "active": "d5a16d273ae925fc",
   "lastOpenFiles": [
+    "Study/Mathematical methods for Physics/BT1.jpg",
+    "Study/Quantum Mechanics/Homework.md",
+    "Study/Quantum Mechanics/THE INFINITY SQUARE WELL.md",
     "Untitled.canvas",
     "Study/Hardware_camp/resultofSK.png",
-    "Study/Quantum Mechanics/Homework.md",
     "Study/Mathematical methods for Physics/Bài tập_4.md",
     "Study/Mathematical methods for Physics/Bài tập_3.md",
     "Work/Find postion in 3D-Dimentions of radiation.md",
@@ -261,7 +263,6 @@
     "CP/Troll/Hello World.md",
     "CP/Troll/Untitled.md",
     "Study/Hardware_camp/ML - Machine Learning for Science.md",
-    "Study/Mathematical methods for Physics/BT1.jpg",
     "Study/Mathematical methods for Physics",
     "Slide/pic.jpg",
     "Slide/Introducing.md",
