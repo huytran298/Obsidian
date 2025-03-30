@@ -109,5 +109,3 @@ from many experimental measurements : $\gamma - 1 \approx 2 \to \gamma \approx 3
 
 
 
-$$p, _H^1$$
-
