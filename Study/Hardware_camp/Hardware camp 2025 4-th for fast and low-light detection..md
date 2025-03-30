@@ -70,3 +70,44 @@ To lower the cut-off rigidity $R_c$. The rigidity $R=p/z$, where $p$ is the mome
 There is a fiffference in the number of charged cosmic rays between from east and from west.
 charged cosmic ray receive a Lorentz force from the geomagnetic field. Due to the direction of the field from the south to north, positively charged particles from the west receive the force to outside and those from the east receive the force to inside. Therefore we observe the partlce from the west more than those from the east.
 ![[east_west effect.png]]
+#### Result of SK
+- $v$ from west $>v$ from east $\to$~={blue} more positive charged particles than negatively charged ones=~
+- Agreement between the data and simulation $→$ ~={blue}correctness of our understanding about atmospheric neutrinos.=~
+![[resultofSK.png]]
+### 2ry cosmic ray generation
+#### $p + A \to \pi / K + X$
+~={green}1ry cosmic ray interact with $N, O, C, etc, \dots$. In atmosphere.
+=~
+- $p-A$ cross-section $(10 \sim 20 GeV)\sim(40mb)A^{2/3}$ 
+- mean free path $\sim 40A^{-1/3} g\cdot cm^{-2}$
+$\to$ Typical altitude of the $1^{st}$ interaction $\sim 15km$
+#### Decay of $\pi$
+##### How far can $5GeV$charged [[https://en.wikipedia.org/wiki/Pion|pion]] travel ?
+$$\gamma c\tau_{\pi} = \frac{E_{\pi}}{m_{\pi}} c\tau_{\pi} = 278m \sim 300m (3.6 g/cm^2)$$
+- interaction length of $pi \sim 160 g/cm^2$
+-  $\gamma$ : Lorentz factor
+- $c$ : Speed of light , $c = 3\cdot 10^8 \ m/s$
+- $\tau_{\pi}$ : Mean lifetime of muons, $\tau_{\pi} = 2.6 \cdot 10^{-8} \ \sec$
+- $m_{\pi}$ : pions mass, $m_{\pi} = 140 \ MeV$
+~={blue}Most pions decay=~
+$$\pi \to \mu + \nu_{\mu}$$
+#### Fate of $\mu$
+- $2.5 GeV$ muons from life $\sim 15 \ km$. 
+- Energy loss $\sim 2 \ GeV$
+- Decay $\mu \to e + \nu_{\mu} + \nu_{e}$
+- Hit the ground absorption $(\mu^-)$ decay.
+
+> **Lower energy $\micro \to$ Decay**
+> **Higher energy $\micro \to$ Can’t decay**
+
+### Zenith angle and energy distributions of cosmic ray
+**Since the energy loss is $2 MeV/(g / cm^2)$ for high energy charged particles, minimum energy $E_{min}$ of the particle which can reach the surface is**
+$$E_{min} = \frac{2[GeV]}{\cos \theta}$$
+Number of incident particles : 
+$$N(E > E_{min}) = \int^\infty_{E_{min}} n(E)\, dE \propto \int_{E_{min}}^\infty E^{-\gamma} \,  dE = \frac{2^{1 - \gamma}}{\gamma - 1} \cos^{\gamma - 1}\theta$$
+from many experimental measurements : $\gamma - 1 \approx 2 \to \gamma \approx 3(2. 7)$
+
+
+
+$$p, _H^1$$
+

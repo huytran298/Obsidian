@@ -3,10 +3,6 @@
 <h3>MSSV : 23230005</h3>
 <h4>Bài tập về nhà - Cơ lượng tử</h4>
 </center>
-
-
-
-
 ## Câu 1
 ### a) 
 Phương trình Schrodinger tổng quát cho hàm sóng $\Psi(x, t)$ là :
