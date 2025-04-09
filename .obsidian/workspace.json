@@ -11,17 +11,14 @@
             "id": "3840aabc5fa68a8f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Study/Mathematical methods for Physics/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -180,8 +177,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -193,7 +190,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "marp-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -201,27 +197,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "0a141feb88e11c2d",
+  "active": "3840aabc5fa68a8f",
   "lastOpenFiles": [
-    "Study/Quantum Mechanics/THE INFINITY SQUARE WELL.md",
+    "Study/Mathematical methods for Physics/Bài tập_5.md",
+    "Study/Mathematical methods for Physics/BT1.jpg",
+    "Study/Mathematical methods for Physics/Untitled.md",
+    "Study/Quantum Mechanics/Homework.md",
+    "Study/Quantum Mechanics/Homework 2.md",
+    "Study/Quantum Mechanics/Heisenberg Uncertainly Principle.md",
+    "Study/Mathematical methods for Physics/Bài tập 6.md",
+    "Study/Mathematical methods for Physics/Bài tập_4.md",
     "Untitled 1.canvas",
+    "Study/Quantum Mechanics/THE INFINITY SQUARE WELL.md",
     "Study/Mathematical methods for Physics/Bài tập_3.md",
     "2025-04-03.md",
     "Study/Quantum Mechanics/Harmonics Oscilator.md",
-    "Study/Quantum Mechanics/Heisenberg Uncertainly Principle.md",
     "Study/Hardware_camp/Photoelectric effect.md",
-    "Study/Quantum Mechanics/Homework.md",
     "Work/Find postion in 3D-Dimentions of radiation.md",
     "Study/Mathematical methods for Physics/Fourier.md",
     "Study/Calculation method/Chương 4.md",
-    "Study/Mathematical methods for Physics/Bài tập_5.md",
     "Study/Calculation method",
-    "Study/Mathematical methods for Physics/Bài tập_4.md",
     "Study/Hardware_camp/resultofSK.png",
-    "Study/Mathematical methods for Physics/BT1.jpg",
     "Untitled.canvas",
     "Work",
     "Study/Quantum Mechanics",
@@ -245,10 +245,7 @@
     "Slide/pic.jpg",
     "Slide/Introducing.md",
     "Slide",
-    "Study/Hardware_camp/Neutrinos.md",
     "Study/Hardware_camp",
-    "Study/Complex_Function/Last_Term/Last_Term.md",
-    "Study/Complex_Function/Last_Term/Theory.md",
     "Study/General Physics",
     "Study/Complex_Function/Last_Term/exam.pdf"
   ]
