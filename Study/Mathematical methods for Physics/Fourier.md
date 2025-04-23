@@ -1,4 +1,4 @@
-### Chuỗi Fourier
+	### Chuỗi Fourier
 Dao động có chu kì : $T = 2L \ \in(-L, L)$
 $$f(x) = a_{0} + \sum^\infty_{n = 1}\left( a_{n}\cdot \cos\left( \frac{n\pi x}{L} \right)  + b_{n}\sin\left( \frac{n\pi x}{L} \right)\right)$$
 Trong đó :
