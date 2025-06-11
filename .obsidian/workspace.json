@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Neutron"
             }
+          },
+          {
+            "id": "8b348878a3fd115c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Mathematical methods for Physics/HOMEWORK5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOMEWORK5"
+            }
+          },
+          {
+            "id": "fc1aa346fb312f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bài tập cơ lượng tử 3"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8d994094e64b05ef",
@@ -201,9 +231,18 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "1ca0bb0fec1255ac",
+  "active": "fc1aa346fb312f9a",
   "lastOpenFiles": [
     "Study/Mathematical methods for Physics/HOMEWORK5.md",
+    "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
+    "Study/Mathematical methods for Physics/Untitled.md",
+    "Study/Mathematical methods for Physics/Fourier.md",
+    "Study/Mathematical methods for Physics/BT1.jpg",
+    "Study/Mathematical methods for Physics/Bài tập_5.md",
+    "Study/Mathematical methods for Physics/Bài tập_3.md",
+    "Study/Mathematical methods for Physics/Bài tập_2.md",
+    "Study/Mathematical methods for Physics/Bài tập_1.md",
+    "Bài tập 3.md",
     "Study/Nuclear Physics/Neutron.md",
     "Pasted image 20250512131526.png",
     "Study/Nuclear Physics/Hạt hạ nguyên tử.md",
@@ -213,14 +252,9 @@
     "Untitled 1.md",
     "Middle Term.md",
     "Untitled.md",
-    "Study/Mathematical methods for Physics/Fourier.md",
     "Study/Mathematical methods for Physics/Gamma & Beta Functions.md",
     "Study/Mathematical methods for Physics/Bài tập_4.md",
     "Study/Basic Electronics",
-    "Study/Mathematical methods for Physics/Bài tập_5.md",
-    "Study/Mathematical methods for Physics/Bài tập_3.md",
-    "Study/Mathematical methods for Physics/Bài tập_2.md",
-    "Study/Mathematical methods for Physics/Bài tập_1.md",
     "Study/Electromagnestism/Phao giữa kì.md",
     "Study/Calculation method/Untitled.md",
     "Study/Electromagnestism",
@@ -231,9 +265,6 @@
     "Study/Calculation method/Chương 4.md",
     "Study/Untitled/Untitled.md",
     "Study/Untitled",
-    "Study/Mathematical methods for Physics/Untitled.md",
-    "Study/Quantum Mechanics/Heisenberg Uncertainly Principle.md",
-    "Study/Mathematical methods for Physics/BT1.jpg",
     "Untitled 1.canvas",
     "Study/Calculation method",
     "Study/Hardware_camp/resultofSK.png",
