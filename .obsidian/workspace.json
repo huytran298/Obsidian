@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "190891571fafd3f5",
+        "id": "f13ccd8700a47aed",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca0bb0fec1255ac",
+            "id": "6da332c93165a6d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Nuclear Physics/Neutron.md",
+                "file": "Study/Mathematical methods for Physics/Bài tập_5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neutron"
-            }
-          },
-          {
-            "id": "8b348878a3fd115c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Mathematical methods for Physics/HOMEWORK5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HOMEWORK5"
-            }
-          },
-          {
-            "id": "fc1aa346fb312f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bài tập cơ lượng tử 3"
+              "title": "Bài tập_5"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8d994094e64b05ef",
@@ -200,16 +170,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "37e52f9aa18357ba",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
         "currentTab": 4
@@ -220,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "marp-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -227,57 +188,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "marp-slides:Show Slide Preview": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc1aa346fb312f9a",
+  "active": "6da332c93165a6d3",
   "lastOpenFiles": [
-    "Study/Mathematical methods for Physics/HOMEWORK5.md",
-    "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
-    "Study/Mathematical methods for Physics/Untitled.md",
-    "Study/Mathematical methods for Physics/Fourier.md",
-    "Study/Mathematical methods for Physics/BT1.jpg",
+    "conflict-files-obsidian-git.md",
     "Study/Mathematical methods for Physics/Bài tập_5.md",
-    "Study/Mathematical methods for Physics/Bài tập_3.md",
-    "Study/Mathematical methods for Physics/Bài tập_2.md",
-    "Study/Mathematical methods for Physics/Bài tập_1.md",
-    "Bài tập 3.md",
-    "Study/Nuclear Physics/Neutron.md",
-    "Pasted image 20250512131526.png",
-    "Study/Nuclear Physics/Hạt hạ nguyên tử.md",
-    "Study/Quantum Mechanics/Ôn tập cơ lượng tử.md",
-    "Study/Nuclear Physics",
-    "Study/Quantum Mechanics/Homework.md",
-    "Untitled 1.md",
-    "Middle Term.md",
     "Untitled.md",
-    "Study/Mathematical methods for Physics/Gamma & Beta Functions.md",
-    "Study/Mathematical methods for Physics/Bài tập_4.md",
-    "Study/Basic Electronics",
-    "Study/Electromagnestism/Phao giữa kì.md",
-    "Study/Calculation method/Untitled.md",
-    "Study/Electromagnestism",
-    "Study/Quantum Mechanics/Homework 2.md",
-    "CP/Troll/Untitled.md",
-    "CP/Troll/Solution.md",
-    "CP/Welcome.md",
-    "Study/Calculation method/Chương 4.md",
+    "Untitled 1.md",
+    "Untitled 1.canvas",
     "Study/Untitled/Untitled.md",
     "Study/Untitled",
-    "Untitled 1.canvas",
+    "Study/Quantum Mechanics/Ôn tập cơ lượng tử.md",
+    "Study/Quantum Mechanics/Homework 2.md",
+    "Study/Quantum Mechanics/Heisenberg Uncertainly Principle.md",
+    "Study/Quantum Mechanics/Harmonics Oscilator.md",
+    "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
+    "Study/Nuclear Physics/Neutron.md",
+    "Study/Nuclear Physics/Hạt hạ nguyên tử.md",
+    "Study/Nuclear Physics",
+    "Study/Mathematical methods for Physics/Untitled.md",
+    "Study/Mathematical methods for Physics/HOMEWORK5.md",
+    "Study/Mathematical methods for Physics/Gamma & Beta Functions.md",
+    "Study/Mathematical methods for Physics/Fourier.md",
+    "Study/Electromagnestism/Phao giữa kì.md",
+    "Study/Electromagnestism",
+    "Study/Calculation method/Untitled.md",
+    "Study/Calculation method/Chương 4.md",
     "Study/Calculation method",
-    "Study/Hardware_camp/resultofSK.png",
+    "Pasted image 20250512131526.png",
+    "Middle Term.md",
+    "Bài tập 3.md",
+    "2025-04-03.md",
+    "Study/Quantum Mechanics/Homework.md",
+    "Study/Mathematical methods for Physics/Bài tập_4.md",
+    "Study/readme.md",
     "Untitled.canvas",
+    "Pasted image 20250310234449.png",
+    "Slide/Introducing.md",
+    "Study/Hardware_camp/magnettic field to muons.png",
+    "Study/Hardware_camp/Particles Theory",
+    "Study/Hardware_camp/resultofSK.png",
     "Work",
     "Study/Quantum Mechanics",
-    "Pasted image 20250310234449.png",
     "Study/Mathematical methods for Physics/waveform.png",
     "Study/Mathematical methods for Physics/[2]-BT.gif",
     "Study/Hardware_camp/east_west effect.png",
-    "Study/Hardware_camp/magnettic field to muons.png",
     "Study/Hardware_camp/CR spectrum.png",
     "Study/Hardware_camp/signal shape.png",
+    "Study/Mathematical methods for Physics/BT1.jpg",
     "Study/Mathematical methods for Physics",
     "Slide",
     "Study/Hardware_camp"
