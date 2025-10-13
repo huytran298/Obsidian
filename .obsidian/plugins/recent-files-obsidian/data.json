@@ -1,12 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "Bài tập 1",
+      "path": "Study/Cơ sở vật lý phóng xạ/Bài tập 1.md"
+    },
+    {
+      "basename": "Photon",
+      "path": "Study/Nuclear Physics/Photon.md"
+    },
+    {
+      "basename": "XSTK_CK_23-24",
+      "path": "Study/Statistical Probability/XSTK_CK_23-24.md"
+    },
+    {
       "basename": "Bài tập cơ lượng tử 3",
       "path": "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md"
     },
     {
+      "basename": "Hiệu ứng tạo cặp",
+      "path": "Study/Nuclear Physics/Hiệu ứng tạo cặp.md"
+    },
+    {
+      "basename": "THE INFINITY SQUARE WELL",
+      "path": "Study/Quantum Mechanics/THE INFINITY SQUARE WELL.md"
+    },
+    {
+      "basename": "Ôn tập cơ lượng tử",
+      "path": "Study/Quantum Mechanics/Ôn tập cơ lượng tử.md"
+    },
+    {
+      "basename": "Heisenberg Uncertainly Principle",
+      "path": "Study/Quantum Mechanics/Heisenberg Uncertainly Principle.md"
+    },
+    {
+      "basename": "Harmonics Oscilator",
+      "path": "Study/Quantum Mechanics/Harmonics Oscilator.md"
+    },
+    {
+      "basename": "Bài tập cơ lượng tử 4",
+      "path": "Study/Quantum Mechanics/Bài tập cơ lượng tử 4.md"
+    },
+    {
       "basename": "Bài tập_5",
       "path": "Study/Mathematical methods for Physics/Bài tập_5.md"
+    },
+    {
+      "basename": "Bảo toàn năng lượng trong va chạm giữa Electron và Neutron",
+      "path": "Study/Nuclear Physics/Bảo toàn năng lượng trong va chạm giữa Electron và Neutron.md"
+    },
+    {
+      "basename": "Beta",
+      "path": "Study/Nuclear Physics/Beta.md"
+    },
+    {
+      "basename": "Electron",
+      "path": "Study/Nuclear Physics/Electron.md"
+    },
+    {
+      "basename": "Hạt hạ nguyên tử",
+      "path": "Study/Nuclear Physics/Hạt hạ nguyên tử.md"
+    },
+    {
+      "basename": "Neutron",
+      "path": "Study/Nuclear Physics/Neutron.md"
+    },
+    {
+      "basename": "Tán xạ Compton",
+      "path": "Study/Nuclear Physics/Tán xạ Compton.md"
+    },
+    {
+      "basename": "Photoelectric effect",
+      "path": "Study/Hardware_camp/Photoelectric effect.md"
+    },
+    {
+      "basename": "resultofSK",
+      "path": "Study/Hardware_camp/resultofSK.png"
+    },
+    {
+      "basename": "Alpha",
+      "path": "Study/Nuclear Physics/Alpha.md"
+    },
+    {
+      "basename": "Bài tập 3",
+      "path": "Bài tập 3.md"
+    },
+    {
+      "basename": "Middle Term",
+      "path": "Middle Term.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "deng2021",
+      "path": "Study/Nuclear Physics/Source/deng2021.pdf"
+    },
+    {
+      "basename": "Homework 2",
+      "path": "Study/Quantum Mechanics/Homework 2.md"
     },
     {
       "basename": "Homework",
@@ -17,40 +109,12 @@
       "path": "Study/Mathematical methods for Physics/Bài tập_4.md"
     },
     {
-      "basename": "readme",
-      "path": "Study/readme.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Pasted image 20250310234449",
-      "path": "Pasted image 20250310234449.png"
-    },
-    {
       "basename": "Introducing",
       "path": "Slide/Introducing.md"
     },
     {
       "basename": "Formular",
       "path": "Study/General Physics/Formular.md"
-    },
-    {
-      "basename": "Last_Term",
-      "path": "Study/Complex_Function/Last_Term/Last_Term.md"
-    },
-    {
-      "basename": "XSTK_CK_23-24",
-      "path": "Study/Statistical Probability/XSTK_CK_23-24.md"
-    },
-    {
-      "basename": "THE INFINITY SQUARE WELL",
-      "path": "Study/Quantum Mechanics/THE INFINITY SQUARE WELL.md"
-    },
-    {
-      "basename": "Photoelectric effect",
-      "path": "Study/Hardware_camp/Photoelectric effect.md"
     },
     {
       "basename": "magnettic field to muons",
@@ -83,10 +147,6 @@
     {
       "basename": "Untitled",
       "path": "CP/Troll/Untitled.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Study/Complex_Function/Last_Term/Theory.md"
     }
   ],
   "omittedPaths": [],

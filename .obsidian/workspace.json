@@ -4,39 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f13ccd8700a47aed",
+        "id": "ad0f4f8c45cb0fd7",
         "type": "tabs",
         "children": [
           {
-            "id": "6da332c93165a6d3",
+            "id": "5b884b0c89c2b87c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
+                "file": "Study/Nuclear Physics/Photon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài tập cơ lượng tử 3"
+              "title": "Photon"
             }
           },
           {
-            "id": "5ca2991635358f7b",
+            "id": "6d564debc89d747b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "29830f84cd748d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
+                "file": "Study/Cơ sở vật lý phóng xạ/Bài tập 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bài tập cơ lượng tử 3"
+              "title": "Bài tập 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8d994094e64b05ef",
@@ -195,66 +206,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "marp-slides:Show Slide Preview": false,
-      "switcher:Open quick switcher": false,
+      "bases:Create new base": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "5ca2991635358f7b",
+  "active": "29830f84cd748d55",
   "lastOpenFiles": [
-    "Study/Mathematical methods for Physics/Bài tập_5.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 1.canvas",
-    "Study/Untitled/Untitled.md",
-    "Study/Untitled",
+    "Study/Cơ sở vật lý phóng xạ/Bài tập 1.md",
+    "Study/Nuclear Physics/Photon.md",
+    "Pasted image 20250930172621.png",
+    "Study/Statistical Probability/XSTK_CK_23-24.md",
+    "Study/Cơ sở vật lý phóng xạ",
+    "Untitled",
+    "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
+    "Study/Nuclear Physics/Hiệu ứng tạo cặp.md",
+    "Study/Quantum Mechanics/THE INFINITY SQUARE WELL.md",
     "Study/Quantum Mechanics/Ôn tập cơ lượng tử.md",
-    "Study/Quantum Mechanics/Homework 2.md",
     "Study/Quantum Mechanics/Heisenberg Uncertainly Principle.md",
     "Study/Quantum Mechanics/Harmonics Oscilator.md",
-    "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
-    "Study/Nuclear Physics/Neutron.md",
+    "Study/Quantum Mechanics/Bài tập cơ lượng tử 4.md",
+    "Study/Mathematical methods for Physics/Bài tập_5.md",
+    "Study/Nuclear Physics/Bảo toàn năng lượng trong va chạm giữa Electron và Neutron.md",
+    "Study/Nuclear Physics/Beta.md",
+    "Study/Nuclear Physics/Electron.md",
     "Study/Nuclear Physics/Hạt hạ nguyên tử.md",
-    "Study/Nuclear Physics",
-    "Study/Mathematical methods for Physics/Untitled.md",
-    "Study/Mathematical methods for Physics/HOMEWORK5.md",
-    "Study/Mathematical methods for Physics/Gamma & Beta Functions.md",
-    "Study/Mathematical methods for Physics/Fourier.md",
-    "Study/Electromagnestism/Phao giữa kì.md",
-    "Study/Electromagnestism",
-    "Study/Calculation method/Untitled.md",
-    "Study/Calculation method/Chương 4.md",
-    "Study/Calculation method",
-    "Pasted image 20250512131526.png",
-    "Middle Term.md",
+    "Study/Nuclear Physics/Neutron.md",
+    "Study/Nuclear Physics/Tán xạ Compton.md",
+    "Study/Hardware_camp/Photoelectric effect.md",
+    "Study/Hardware_camp/resultofSK.png",
+    "Study/Nuclear Physics/Alpha.md",
+    "Study/Untitled/Untitled.md",
     "Bài tập 3.md",
-    "2025-04-03.md",
-    "Study/Quantum Mechanics/Homework.md",
-    "Study/Mathematical methods for Physics/Bài tập_4.md",
     "Study/readme.md",
-    "Untitled.canvas",
+    "2025-04-03.md",
+    "Middle Term.md",
+    "Pasted image 20250715150215.png",
+    "Pasted image 20250512131526.png",
     "Pasted image 20250310234449.png",
-    "Slide/Introducing.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Study/Nuclear Physics/Source/deng2021.pdf",
+    "Study/Nuclear Physics/Source",
+    "Study/Nuclear Physics",
+    "Study/Electromagnestism",
+    "Study/Calculation method",
     "Study/Hardware_camp/magnettic field to muons.png",
     "Study/Hardware_camp/Particles Theory",
-    "Study/Hardware_camp/resultofSK.png",
     "Work",
     "Study/Quantum Mechanics",
     "Study/Mathematical methods for Physics/waveform.png",
     "Study/Mathematical methods for Physics/[2]-BT.gif",
     "Study/Hardware_camp/east_west effect.png",
-    "Study/Hardware_camp/CR spectrum.png",
-    "Study/Hardware_camp/signal shape.png",
-    "Study/Mathematical methods for Physics/BT1.jpg",
-    "Study/Mathematical methods for Physics",
-    "Slide",
-    "Study/Hardware_camp"
+    "Study/Hardware_camp/CR spectrum.png"
   ]
 }
