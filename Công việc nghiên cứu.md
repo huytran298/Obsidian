@@ -1,0 +1,2 @@
+- Bài 1-4 : Thiết kế hệ đo phổ năng lượng với đầu dò (BGO, Plastic, CsI(Tl), NaI(Tl)) với PMT.
+- Bài 5 - 7 : Thiết kế hệ đo phổ năng lượng với đầu dò (BGO, Plastic, CsI(Tl)) với SiPM.
