@@ -1,3 +1,9 @@
+<center><h2>Họ và tên : Trần Quốc Huy</h2>
+
+<h3>MSSV : 23230005</h3>
+<h4>Bài tập về nhà - Cơ lượng tử</h4>
+</center>
+
 ## Bài tập 1
 ### a)
 $$\begin{gather}
