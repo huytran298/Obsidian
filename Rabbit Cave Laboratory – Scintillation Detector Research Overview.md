@@ -9,7 +9,9 @@ The laboratory currently operates three main types of scintillation detectors, s
 
 - **NaI(Tl) Detector** – Sodium Iodide doped with Thallium provides a **high light yield (~38,000 photons/MeV)** and emits light with a **peak wavelength around 415 nm**, well matched to typical bialkali photocathodes.  
     It is mainly used for **gamma-ray spectroscopy** and **energy calibration**, offering excellent energy resolution.
-    
+    ![s](8E8C9018-E682-401F-930C-0DF9738FFDB9_1_102_o.jpeg)
+    This is our NaI(TI) scintillator, which size is 3 inch
+
 - **BGO Detector** – Bismuth Germanate has a **moderate light yield (~8,000–9,000 photons/MeV)** and emits at a **peak wavelength of about 480 nm**.  
     With its high density (**7.13 g/cm³**) and strong stopping power, it is ideal for **high-energy gamma detection** in compact setups.
     
@@ -31,3 +33,4 @@ Current research directions include:
 
 **4. Purpose and Collaboration**  
 The _Rabbit Cave Laboratory_ aims to provide students with hands-on research experience in detector physics, data acquisition, and scintillation analysis.  
+
