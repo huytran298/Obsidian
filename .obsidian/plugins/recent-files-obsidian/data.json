@@ -25,28 +25,12 @@
       "path": "Study/Mathematical methods for Physics/Bài tập_4.md"
     },
     {
-      "basename": "readme",
-      "path": "Study/readme.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Pasted image 20250310234449",
-      "path": "Pasted image 20250310234449.png"
-    },
-    {
       "basename": "Introducing",
       "path": "Slide/Introducing.md"
     },
     {
       "basename": "Formular",
       "path": "Study/General Physics/Formular.md"
-    },
-    {
-      "basename": "Last_Term",
-      "path": "Study/Complex_Function/Last_Term/Last_Term.md"
     },
     {
       "basename": "XSTK_CK_23-24",
@@ -91,10 +75,6 @@
     {
       "basename": "Untitled",
       "path": "CP/Troll/Untitled.md"
-    },
-    {
-      "basename": "Theory",
-      "path": "Study/Complex_Function/Last_Term/Theory.md"
     }
   ],
   "omittedPaths": [],

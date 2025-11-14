@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "0a047ac53ab064e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "5ca2991635358f7b",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Bài tập cơ lượng tử 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,13 +220,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6da332c93165a6d3",
+  "active": "0a047ac53ab064e7",
   "lastOpenFiles": [
-    "Study/Quantum Mechanics/Homework 2.md",
+    "conflict-files-obsidian-git.md",
     "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
+    "Work/Mini compact detector.md",
+    "Study/Vật lý thống kê - BTVN 1.md",
+    "Study/Nuclear Physics/Tán xạ Compton.md",
+    "Study/Nuclear Physics/Source/deng2021.pdf",
+    "Study/Nuclear Physics/Source",
+    "Study/Nuclear Physics/Photon.md",
+    "Study/Nuclear Physics/Hiệu ứng tạo cặp - huỷ cặp.md",
+    "Study/Nuclear Physics/Electron.md",
+    "Study/Nuclear Physics/Bảo toàn năng lượng trong va chạm giữa Electron và Neutron.md",
+    "Study/Nuclear Physics/Beta.md",
+    "Study/Nuclear Physics/Alpha.md",
+    "Study/Cơ sở vật lý phóng xạ/Bài tập 1.md",
+    "Study/Cơ sở vật lý phóng xạ",
+    "Rabbit Cave Laboratory – Scintillation Detector Research Overview.md",
+    "Pasted image 20251013144228.png",
+    "Pasted image 20250930172621.png",
+    "Gamma Spectroscopy Software.md",
+    "Công việc nghiên cứu.md",
+    "BT XSTK.md",
+    "8E8C9018-E682-401F-930C-0DF9738FFDB9_1_102_o.jpeg",
+    "Study/Quantum Mechanics/Homework 2.md",
     "Study/Quantum Mechanics/Bài tập cơ lượng tử 4.md",
     "Study/Mathematical methods for Physics/Bài tập_5.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Untitled 1.md",
     "Untitled 1.canvas",
@@ -221,24 +256,10 @@
     "Study/Quantum Mechanics/Heisenberg Uncertainly Principle.md",
     "Study/Quantum Mechanics/Harmonics Oscilator.md",
     "Study/Nuclear Physics/Neutron.md",
-    "Study/Nuclear Physics/Hạt hạ nguyên tử.md",
     "Study/Nuclear Physics",
-    "Study/Mathematical methods for Physics/Untitled.md",
-    "Study/Mathematical methods for Physics/HOMEWORK5.md",
-    "Study/Mathematical methods for Physics/Gamma & Beta Functions.md",
-    "Study/Mathematical methods for Physics/Fourier.md",
-    "Study/Electromagnestism/Phao giữa kì.md",
     "Study/Electromagnestism",
-    "Study/Calculation method/Untitled.md",
-    "Study/Calculation method/Chương 4.md",
     "Study/Calculation method",
     "Pasted image 20250512131526.png",
-    "Middle Term.md",
-    "Bài tập 3.md",
-    "2025-04-03.md",
-    "Study/Quantum Mechanics/Homework.md",
-    "Study/Mathematical methods for Physics/Bài tập_4.md",
-    "Study/readme.md",
     "Untitled.canvas",
     "Pasted image 20250310234449.png",
     "Study/Hardware_camp/magnettic field to muons.png",
@@ -248,12 +269,6 @@
     "Study/Quantum Mechanics",
     "Study/Mathematical methods for Physics/waveform.png",
     "Study/Mathematical methods for Physics/[2]-BT.gif",
-    "Study/Hardware_camp/east_west effect.png",
-    "Study/Hardware_camp/CR spectrum.png",
-    "Study/Hardware_camp/signal shape.png",
-    "Study/Mathematical methods for Physics/BT1.jpg",
-    "Study/Mathematical methods for Physics",
-    "Slide",
-    "Study/Hardware_camp"
+    "Study/Hardware_camp/east_west effect.png"
   ]
 }
