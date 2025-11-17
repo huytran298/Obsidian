@@ -25,12 +25,15 @@
             "id": "b81a6568d08ed9ad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "split-diff-view",
               "state": {
-                "currentVersion": "1.10.3"
+                "aFile": "Study/Vật lý thống kê - BTVN 2.md",
+                "bFile": "Study/Vật lý thống kê - BTVN 2.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "diff",
+              "title": "Diff: Vật lý thống kê - BTVN 2"
             }
           },
           {
@@ -47,7 +50,8 @@
               "title": "Bài tập cơ lượng tử 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,14 +222,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6da332c93165a6d3",
+  "active": "b81a6568d08ed9ad",
   "lastOpenFiles": [
-    "BT XSTK.md",
+    "conflict-files-obsidian-git.md",
     "Work/Software.md",
+    "Study/Vật lý thống kê - BTVN 2.md",
+    "BT XSTK.md",
     "Untitled 1.md",
     "Untitled.md",
     "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
-    "conflict-files-obsidian-git.md",
     "Work/Mini compact detector.md",
     "Study/Vật lý thống kê - BTVN 1.md",
     "Study/Nuclear Physics/Tán xạ Compton.md",
@@ -253,7 +258,6 @@
     "Study/Untitled",
     "Study/Quantum Mechanics/Ôn tập cơ lượng tử.md",
     "Study/Quantum Mechanics/Heisenberg Uncertainly Principle.md",
-    "Study/Quantum Mechanics/Harmonics Oscilator.md",
     "Study/Nuclear Physics",
     "Study/Electromagnestism",
     "Study/Calculation method",
