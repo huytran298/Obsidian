@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8d994094e64b05ef",
@@ -300,7 +299,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "891a8532dfef8e37",
+  "active": "0a141feb88e11c2d",
   "lastOpenFiles": [
     "Rabbit Cave Laboratory – Scintillation Detector Research Overview.md",
     "Study/Nuclear Physics/Hiệu ứng tạo cặp - huỷ cặp.md",
