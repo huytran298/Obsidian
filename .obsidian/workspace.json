@@ -4,11 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "4fddda0577b906c5",
+        "id": "f13ccd8700a47aed",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff3aa3007edd06b",
+            "id": "6da332c93165a6d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Vật lý thống kê - BTVN 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vật lý thống kê - BTVN 2"
+            }
+          },
+          {
+            "id": "5ca2991635358f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Quantum Mechanics/Bài tập cơ lượng tử 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bài tập cơ lượng tử 4"
+            }
+          },
+          {
+            "id": "a81a2afda083328c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Vật lý thống kê - BTVN 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vật lý thống kê - BTVN 2"
+            }
+          },
+          {
+            "id": "413280912ac287eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Vật lý thống kê - BTVN 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vật lý thống kê - BTVN 1"
+            }
+          },
+          {
+            "id": "e8d8d78ac45794aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,34 +78,19 @@
             }
           },
           {
-            "id": "b003bcf7c99ef17c",
+            "id": "3ce320cf11763cf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Study/Vật lý thống kê/Chap  4, 5.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.12.7"
               },
-              "icon": "lucide-file",
-              "title": "Chap  4, 5"
-            }
-          },
-          {
-            "id": "a265e7bc4fc50f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Phân tích số liệu thực nghiệm thống kê/Ôn tập.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ôn tập"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,8 +149,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -209,66 +250,66 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "graph:Open graph view": false,
+      "marp-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "marp-slides:Show Slide Preview": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ff3aa3007edd06b",
+  "active": "3ce320cf11763cf7",
   "lastOpenFiles": [
-    "Study/Vật lý thống kê/Vật lý thống kê - BTVN 2.md",
-    "Study/Vật lý thống kê/Chap  4, 5.md",
-    "Study/Phân tích số liệu thực nghiệm thống kê/Ôn tập.md",
-    "Study/Vật lý neutron/Bài tập 1.md",
-    "Study/Phân tích số liệu thực nghiệm thống kê",
+    "BT2.pdf",
     "Untitled.base",
-    "Study/Vật lý neutron",
-    "Study/Vật lý thống kê/Vật lý thống kê - BTVN 1.md",
-    "Middle Term.md",
-    "Study/Vật lý thống kê",
-    "Rabbit Cave's Scintillator Presentation.md",
-    "Pasted image 20251013144228.png",
-    "Pasted image 20251205140457.png",
-    "Pasted image 20250930172621.png",
-    "Giải bt.md",
     "Untitled 4.md",
-    "Niels Bohr.md",
-    "Study/Nuclear Physics/Hiệu ứng tạo cặp - huỷ cặp.md",
-    "Work/Mini compact detector.md",
-    "Work/Find postion in 3D-Dimentions of radiation.md",
-    "Study/Nuclear Physics/Photon.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Study/Vật lý thống kê/Vật lý thống kê - BTVN 2.md",
+    "Study/Vật lý thống kê/Vật lý thống kê - BTVN 1.md",
+    "Study/Vật lý thống kê/Chap  4, 5.md",
+    "Study/Vật lý thống kê",
+    "Study/Vật lý neutron/Bài tập 1.md",
+    "Study/Vật lý neutron",
+    "Study/Phân tích số liệu thực nghiệm thống kê/Ôn tập.md",
+    "Study/Phân tích số liệu thực nghiệm thống kê",
+    "Rabbit Cave's Scintillator Presentation.md",
     "Pasted image 20251206172146.png",
-    "Pasted image 20251206170104.png",
-    "Pasted image 20251205141546.png",
-    "Pasted image 20251206170159.png",
-    "Pasted image 20251206171617.png",
     "Pasted image 20251206171950.png",
     "Pasted image 20251206171827.png",
-    "Công việc nghiên cứu.md",
-    "Study/Quantum Mechanics/Bài tập cơ lượng tử 4.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
-    "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
-    "Study/Statistical Probability/XSTK_CK_23-24.md",
-    "BT XSTK.md",
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20251206171617.png",
+    "Pasted image 20251206171152.png",
+    "Pasted image 20251206171101.png",
+    "Pasted image 20251206170833.png",
+    "Pasted image 20251206170346.png",
+    "Pasted image 20251206170333.png",
+    "Pasted image 20251206170256.png",
+    "Niels Bohr.md",
+    "Giải bt.md",
+    "BT1.pdf",
+    "Study/Vật lý thống kê - BTVN 1.md",
+    "23230001_BT2_VLTK.pdf",
+    "Study/Vật lý thống kê - BTVN 2.md",
     "Work/Software.md",
+    "Study/Quantum Mechanics/Bài tập cơ lượng tử 4.md",
+    "conflict-files-obsidian-git.md",
+    "BT XSTK.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Gamma Spectroscopy Software.md",
-    "Study/Cơ sở vật lý phóng xạ",
-    "Untitled",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
+    "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
+    "Work/Mini compact detector.md",
+    "Study/Nuclear Physics/Tán xạ Compton.md",
     "Study/Nuclear Physics/Source/deng2021.pdf",
     "Study/Nuclear Physics/Source",
-    "Study/Nuclear Physics",
-    "Study/Electromagnestism"
+    "Study/Nuclear Physics/Photon.md",
+    "Study/Nuclear Physics/Hiệu ứng tạo cặp - huỷ cặp.md",
+    "Study/Nuclear Physics/Electron.md",
+    "Study/Cơ sở vật lý phóng xạ",
+    "Untitled 1.canvas",
+    "Study/Untitled",
+    "Untitled.canvas"
   ]
 }
