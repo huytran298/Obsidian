@@ -4,165 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "ad0f4f8c45cb0fd7",
+        "id": "4fddda0577b906c5",
         "type": "tabs",
         "children": [
           {
-            "id": "5b884b0c89c2b87c",
+            "id": "7ff3aa3007edd06b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Nuclear Physics/Photon.md",
+                "file": "Study/Vật lý neutron/Bài tập 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Photon"
+              "title": "Bài tập 1"
             }
           },
           {
-            "id": "6d564debc89d747b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "29830f84cd748d55",
+            "id": "b003bcf7c99ef17c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Find postion in 3D-Dimentions of radiation.md",
+                "file": "Study/Vật lý thống kê/Chap  4, 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find postion in 3D-Dimentions of radiation"
+              "title": "Chap  4, 5"
             }
           },
           {
-            "id": "91aba0c47151c03a",
+            "id": "a265e7bc4fc50f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Mini compact detector.md",
+                "file": "Study/Phân tích số liệu thực nghiệm thống kê/Ôn tập.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mini compact detector"
-            }
-          },
-          {
-            "id": "761b08b8bdcbddef",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
-            "id": "2ddd16abed91ed6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Nuclear Physics/Hiệu ứng tạo cặp - huỷ cặp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hiệu ứng tạo cặp - huỷ cặp"
-            }
-          },
-          {
-            "id": "9ba4089e3846d2cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rabbit Cave's Scintillator Presentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rabbit Cave's Scintillator Presentation"
-            }
-          },
-          {
-            "id": "347026cca65a050f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Niels Bohr.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Niels Bohr"
-            }
-          },
-          {
-            "id": "fe72749a5259c8d3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "c068c83bbd8e610d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251206172146.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251206172146"
-            }
-          },
-          {
-            "id": "866069f707e60e84",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251206170104.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251206170104"
-            }
-          },
-          {
-            "id": "fc6cc8ba7428a3b4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251206171617.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251206171617"
+              "title": "Ôn tập"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +108,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -333,54 +220,55 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "fe72749a5259c8d3",
+  "active": "7ff3aa3007edd06b",
   "lastOpenFiles": [
-    "Pasted image 20251206172146.png",
+    "Study/Vật lý thống kê/Vật lý thống kê - BTVN 2.md",
+    "Study/Vật lý thống kê/Chap  4, 5.md",
+    "Study/Phân tích số liệu thực nghiệm thống kê/Ôn tập.md",
+    "Study/Vật lý neutron/Bài tập 1.md",
+    "Study/Phân tích số liệu thực nghiệm thống kê",
+    "Untitled.base",
+    "Study/Vật lý neutron",
+    "Study/Vật lý thống kê/Vật lý thống kê - BTVN 1.md",
+    "Middle Term.md",
+    "Study/Vật lý thống kê",
+    "Rabbit Cave's Scintillator Presentation.md",
+    "Pasted image 20251013144228.png",
+    "Pasted image 20251205140457.png",
+    "Pasted image 20250930172621.png",
+    "Giải bt.md",
+    "Untitled 4.md",
     "Niels Bohr.md",
+    "Study/Nuclear Physics/Hiệu ứng tạo cặp - huỷ cặp.md",
+    "Work/Mini compact detector.md",
+    "Work/Find postion in 3D-Dimentions of radiation.md",
+    "Study/Nuclear Physics/Photon.md",
+    "Pasted image 20251206172146.png",
     "Pasted image 20251206170104.png",
     "Pasted image 20251205141546.png",
     "Pasted image 20251206170159.png",
     "Pasted image 20251206171617.png",
     "Pasted image 20251206171950.png",
     "Pasted image 20251206171827.png",
-    "Pasted image 20251206171152.png",
-    "Pasted image 20251206171101.png",
-    "Pasted image 20251206170833.png",
-    "Rabbit Cave's Scintillator Presentation.md",
     "Công việc nghiên cứu.md",
     "Study/Quantum Mechanics/Bài tập cơ lượng tử 4.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "Study/Quantum Mechanics/Bài tập cơ lượng tử 3.md",
     "Study/Statistical Probability/XSTK_CK_23-24.md",
-    "Middle Term.md",
     "BT XSTK.md",
-    "Study/Vật lý thống kê - BTVN 2.md",
-    "Study/Vật lý thống kê - BTVN 1.md",
     "conflict-files-obsidian-git.md",
     "Work/Software.md",
-    "Study/Nuclear Physics/Hiệu ứng tạo cặp - huỷ cặp.md",
     "Untitled 1.md",
     "Untitled.md",
     "Gamma Spectroscopy Software.md",
-    "Study/Nuclear Physics/Hạt hạ nguyên tử.md",
-    "Work/Find postion in 3D-Dimentions of radiation.md",
-    "Work/Mini compact detector.md",
-    "Study/Cơ sở vật lý phóng xạ/Bài tập 1.md",
-    "Study/Nuclear Physics/Photon.md",
     "Study/Cơ sở vật lý phóng xạ",
     "Untitled",
-    "Study/Quantum Mechanics/THE INFINITY SQUARE WELL.md",
-    "Study/Quantum Mechanics/Ôn tập cơ lượng tử.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Study/Nuclear Physics/Source/deng2021.pdf",
     "Study/Nuclear Physics/Source",
     "Study/Nuclear Physics",
-    "Study/Electromagnestism",
-    "Study/Calculation method",
-    "Study/Hardware_camp/Particles Theory",
-    "Work",
-    "Study/Quantum Mechanics"
+    "Study/Electromagnestism"
   ]
 }
